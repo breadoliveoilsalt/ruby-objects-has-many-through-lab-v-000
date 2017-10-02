@@ -9,3 +9,4 @@ class Appointment
     end
 
 end
+

@@ -8,8 +8,4 @@ class Song
     genre.add_song(self)
   end
 
-  def genre
-    @genre
-  end
-
 end

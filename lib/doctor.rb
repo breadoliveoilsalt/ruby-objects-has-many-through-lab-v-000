@@ -16,7 +16,7 @@ class Doctor
     appointments.collect {|a| a.patient}
   end
 
-  def
+
 
 
 end

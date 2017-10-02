@@ -10,5 +10,11 @@ class Genre
   def artists
     songs.collect { |s| s.artist }
   end
-    
+
+  def songs
+    songs.collect { |s| s.name }
+
+  end
+
+  
 end

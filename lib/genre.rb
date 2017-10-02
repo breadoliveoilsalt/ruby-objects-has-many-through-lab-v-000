@@ -11,10 +11,8 @@ class Genre
     songs.collect { |s| s.artist }
   end
 
-  def songs
-    songs.collect { |s| s.name }
-
+  def add_song(song)
+    @songs << song
   end
-
 
 end

@@ -15,5 +15,5 @@ class Genre
     @songs << song
   end
 
-  
+
 end
